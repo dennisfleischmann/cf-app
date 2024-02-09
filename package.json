@@ -1,7 +1,7 @@
 {
-  "name": "example-app",
+  "name": "cf-app",
   "version": "1.0.0",
-  "description": "An example Node.js app",
+  "description": "An cf with Kali exampke Node.js app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
