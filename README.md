@@ -1,3 +1,9 @@
+# Install
+
+```bash
+npm install
+```
+
 # Macbook ARM Build
 ```bash
 export DOCKER_BUILDKIT=1
