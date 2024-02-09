@@ -1,0 +1,5 @@
+applications:
+- name: my-app
+  docker:
+    image: denfle/cf-app
+  command: "node server.js"
