@@ -11,7 +11,7 @@ docker buildx build --platform linux/amd64 -t denfle/cf-app:latest . --load
 
 ```
 
-# Build on linux (No Arn)
+# Build on linux (No arm)
 docker build -t denfle/cf-app:latest .
 
 
